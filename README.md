@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+# Video Funcionamento 
+
+https://github.com/ferreiranerdnew/contador_flutter/assets/91612020/43c0d429-5006-4ca6-bb24-24ed19b57a84
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
